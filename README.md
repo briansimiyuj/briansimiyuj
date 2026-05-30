@@ -16,7 +16,7 @@ Currently expanding into backend development with Node.js, PostgreSQL, and REST 
 
 I live with Cerebral Palsy, a condition that affects my mobility and speech. I use assistive technology to code and communicate. I have never attended a coding bootcamp or studied Computer Science formally — everything I know came from YouTube, documentation, and thousands of hours of building real things.
 
-I built a full Telemedicine platform with integrated Electronic Health Records as my university dissertation — alone, over two years, purely driven by the desire to create something meaningful.
+I built a full Telemedicine platform with integrated Electronic Health Records — alone, over two years, purely driven by the desire to create something meaningful.
 
 Every project on this profile is proof that circumstances do not determine outcomes. Determination does.
 
