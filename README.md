@@ -28,6 +28,7 @@ Every project on this profile is proof that circumstances do not determine outco
 |---|---|---|
 | Telemedicine App with EHR | React · TypeScript · Firebase · PWA | [View Live](https://doctor-appointment-app-indol.vercel.app/) |
 | SimiyuGram — Instagram Clone | React · TypeScript · Firebase | [View Live](https://simiyu-gram-2.vercel.app/) |
+| SimiyuSearch — Search Engine | TypeScript · SCSS | [View Live](https://briansimiyuj.github.io/Simiyu-Search-Engine/public/) |
 | Node.js HTTP Server | Node.js · Streams · EventEmitter | [View Repo](https://github.com/briansimiyuj) |
 | Node.js File Manager | Node.js · fs · EventEmitter | [View Repo](https://github.com/briansimiyuj) |
 
