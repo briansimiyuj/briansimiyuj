@@ -14,7 +14,7 @@ Currently expanding into backend development with Node.js, PostgreSQL, and REST 
 
 ### My Story
 
-I live with Cerebral Palsy, a condition that affects my mobility and speech. I use assistive technology to code and communicate. I have never attended a coding bootcamp or studied Computer Science formally — everything I know came from YouTube, documentation, and thousands of hours of building real things.
+I have Cerebral Palsy, a condition that affects my mobility and speech. I use assistive technology to code and communicate. I have never attended a coding bootcamp or studied Computer Science formally — everything I know came from YouTube, documentation, and thousands of hours of building real things.
 
 I built a full Telemedicine platform with integrated Electronic Health Records — alone, over two years, purely driven by the desire to create something meaningful.
 
