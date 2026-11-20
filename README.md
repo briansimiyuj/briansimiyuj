@@ -40,7 +40,7 @@ outcomes. Determination does.
 | SimiyuGram — Instagram Clone | React · TypeScript · Firebase | [Live](https://simiyu-gram-2.vercel.app/) |
 | SimiyuSearch — Search Engine | TypeScript · SCSS | [Live](https://briansimiyuj.github.io/Simiyu-Search-Engine/public/) |
 | Node.js HTTP Server | Node.js · Streams · EventEmitter | [Repo](https://github.com/briansimiyuj/NodeJS-Todo-App) |
-| Node.js File Manager | Node.js · fs · EventEmitter | [Repo](https://github.com/briansimiyuj) |
+| Node.js File Manager | Node.js · fs · EventEmitter | [Repo](https://github.com/briansimiyuj/file-manager) |
 
 > **Before you publish:** fix the two `Repo` links above. Point each one at its
 > actual repository, not your profile page. A technical screener will click them.
