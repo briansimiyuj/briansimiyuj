@@ -6,17 +6,17 @@
 
 ### About Me
 
-Self-taught full stack developer with 9 years of hands-on experience building real-world applications. I started with HTML and CSS in 2016 and have been building ever since — driven entirely by curiosity and an insatiable hunger to grow.
+Self-taught full stack developer with 9 years of hands-on experience building real-world applications. I started with HTML and CSS in 2016 and have been building ever since, driven entirely by curiosity and an insatiable hunger to grow.
 
-Currently expanding into backend development with Node.js, PostgreSQL, and REST APIs.
+Currently expanding into backend development with Node.js, TypeScript, and REST APIs, and taking my first steps into DevOps.
 
 ---
 
 ### My Story
 
-I have Cerebral Palsy, a condition that affects my mobility and speech. I use assistive technology to code and communicate. I have never attended a coding bootcamp or studied Computer Science formally — everything I know came from YouTube, documentation, and thousands of hours of building real things.
+I have Cerebral Palsy, a condition that affects my mobility and speech. Since my speech is not always clear, I type to communicate. I have never attended a coding bootcamp or studied Computer Science formally. Everything I know came from YouTube, documentation, and thousands of hours of building real things.
 
-I built a full Telemedicine platform with integrated Electronic Health Records — alone, over two years, purely driven by the desire to create something meaningful.
+I built a full Telemedicine platform with integrated Electronic Health Records, alone, over two years, purely driven by the desire to create something meaningful.
 
 Every project on this profile is proof that circumstances do not determine outcomes. Determination does.
 
@@ -40,10 +40,16 @@ Every project on this profile is proof that circumstances do not determine outco
 React · TypeScript · JavaScript · HTML5 · CSS3 · Sass · Tailwind CSS · React Hooks · Context API · React Router · PWA · Service Workers
 
 **Backend**
-Node.js · Express.js · REST APIs · Firebase · JWT · bcrypt
+Node.js · Express.js · REST APIs · JWT · bcrypt · Firebase
 
 **Database**
-Firestore · PostgreSQL (learning) · SQL
+PostgreSQL · MongoDB · Firestore · SQL
+
+**Testing**
+Vitest · React Testing Library
+
+**DevOps (Beginner)**
+Continuous Integration (CI)
 
 **Tools**
 Git · GitHub · Vercel · Netlify · VS Code · Vite
@@ -62,10 +68,9 @@ Git · GitHub · Vercel · Netlify · VS Code · Vite
 
 ### Currently Learning
 
-- Node.js & Express.js
-- PostgreSQL & SQL
+- Node.js & TypeScript on the backend
 - REST API architecture
-- JWT Authentication from scratch
+- DevOps fundamentals: Continuous Integration (CI)
 
 ---
 
@@ -73,4 +78,4 @@ Git · GitHub · Vercel · Netlify · VS Code · Vite
 
 - Email: briansimiyuj@gmail.com
 - GitHub: [github.com/briansimiyuj](https://github.com/briansimiyuj)
-- Location: Nairobi, Kenya — Open to remote work worldwide
+- Location: Nairobi, Kenya. Open to remote work worldwide
